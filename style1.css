@@ -1,0 +1,28 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+header{
+    widows: 100%;
+}
+body{
+    background-image:url(../imagenes/nintendo.jpg);
+    background-repeat:;
+    background-size:100%; 
+    height:100%;
+    width:100%;
+    margin-top: 200px;
+    margin-bottom:100px;
+}
+h1{
+    color:red;
+    
+}
+img{
+    border-radius:40%;
+    width:150px; height: 150px;
+    box-shadow:black 15px 15px 4px;
+}
+img:hover{
+    transform:scale(2)
+}
